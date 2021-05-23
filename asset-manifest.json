@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pokeyeda/static/css/main.81172fbd.chunk.css",
+    "main.js": "/pokeyeda/static/js/main.26a9102e.chunk.js",
+    "main.js.map": "/pokeyeda/static/js/main.26a9102e.chunk.js.map",
+    "runtime-main.js": "/pokeyeda/static/js/runtime-main.08343ed8.js",
+    "runtime-main.js.map": "/pokeyeda/static/js/runtime-main.08343ed8.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/pokeyeda/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d1ac8169.chunk.js": "/pokeyeda/static/js/2.d1ac8169.chunk.js",
+    "static/js/2.d1ac8169.chunk.js.map": "/pokeyeda/static/js/2.d1ac8169.chunk.js.map",
+    "static/js/3.0ddd625b.chunk.js": "/pokeyeda/static/js/3.0ddd625b.chunk.js",
+    "static/js/3.0ddd625b.chunk.js.map": "/pokeyeda/static/js/3.0ddd625b.chunk.js.map",
+    "index.html": "/pokeyeda/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/pokeyeda/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.81172fbd.chunk.css.map": "/pokeyeda/static/css/main.81172fbd.chunk.css.map",
+    "static/js/2.d1ac8169.chunk.js.LICENSE.txt": "/pokeyeda/static/js/2.d1ac8169.chunk.js.LICENSE.txt",
+    "static/media/pokecenter.6c3e4434.png": "/pokeyeda/static/media/pokecenter.6c3e4434.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08343ed8.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d1ac8169.chunk.js",
+    "static/css/main.81172fbd.chunk.css",
+    "static/js/main.26a9102e.chunk.js"
+  ]
+}
