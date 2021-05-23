@@ -1,0 +1,30 @@
+.name {
+    font-size: 64px;
+    text-transform: capitalize;
+}
+.pokemon-details {
+    display: flex;
+    flex-direction: column;
+    > img {
+        width: 100%;
+        height: 250px;
+    }
+    h1 {
+        text-align: center;
+    }
+    p {
+        text-align: center;
+    }
+    > .back-btn {
+        width: 110px;
+        align-self: center;
+    }
+    .pokemon-game {
+        height: 100%;
+        display: flex;
+        align-self: center;
+    }
+    .models-header {
+        text-align: center;
+    }
+}

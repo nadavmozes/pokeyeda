@@ -1,0 +1,14 @@
+.main-header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    background-color:rgba(105, 105, 195, 0.644);
+    h1 {
+        margin-right: 5px;
+    }
+    img {
+        align-self: center;
+        width: 30px;
+        height: 30px;
+    }
+}
